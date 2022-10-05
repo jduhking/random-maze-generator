@@ -787,7 +787,7 @@ public static void main(String [] args)
 	// ask user if he wants to generate a maze or get one from a file
 	
 	System.out.println("Welcome to the Maze Generation Program \n ");
-	System.out.println("Do you wish to: \n \n1) Input maze from a file and output the path \n \n2) Randomly generate a maze and display path at the press of a button \n ");
+	System.out.println("Do you wish to: \n \n1) Randomly generate a maze and display path at the press of a button \n \n2) Input maze from a file and output the path \n ");
 
 	do // perform input validation on choice
 	{
